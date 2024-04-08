@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6939699696853864107
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5534577984707868962, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: armor
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868962, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: health
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868962, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: defense
+      value: 2.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868962, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: maxHealth
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868963, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: movementSpeed
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868966, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577984707868984, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_Name
+      value: Alpha Minion Lvl 3 Enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577986536337998, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_Color.b
+      value: 0.5660378
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577986536337998, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_Color.g
+      value: 0.258989
+      objectReference: {fileID: 0}
+    - target: {fileID: 5534577986536337998, guid: bc6632ffda60f66499df5615827de226, type: 3}
+      propertyPath: m_Color.r
+      value: 0.39932778
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bc6632ffda60f66499df5615827de226, type: 3}
