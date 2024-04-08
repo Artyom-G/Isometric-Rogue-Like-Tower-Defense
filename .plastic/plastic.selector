@@ -1,4 +1,0 @@
-repository "Isometric Rogue-Like Tower Defense@Artyom_Gabtraupov@cloud"
-  path "/"
-    br "/main"
-    co "/main"
